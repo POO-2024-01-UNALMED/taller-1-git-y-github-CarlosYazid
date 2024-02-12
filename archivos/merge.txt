@@ -1,3 +1,6 @@
+Ahora si puedo subir la carpeta, porque para git, el versionador de codigo, el añadir el texto respuesta.txt 
+si es un cambio en la estructura del proyecto en comparación de la versión anterior
+
 Carlos Yazid Padilla Royero
 
 18 años
@@ -11,4 +14,4 @@ Es importante tener cuidado, ya que se puede perder infromación,
 por eso es comun usar ramas distintas a la principal, asi
 el trabajo colaborativo de una persona no se ve afectado por el de otra
 y tampoco se hace un desplegue abrupto en la rama principal, al hacerlo
-sin testear podria causar el hundimiento del proyecto o de la aplicacion
+sin testear podria causar el hundimieto del proyecto o la aplicación.
