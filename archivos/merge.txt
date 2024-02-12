@@ -1,0 +1,2 @@
+Ahora si puedo subir la carpeta, porque para git, el versionador de codigo, el añadir el texto respuesta.txt 
+si es un cambio en la estructura del proyecto en comparación de la versión anterior
