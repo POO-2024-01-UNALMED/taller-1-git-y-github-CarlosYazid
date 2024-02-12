@@ -1,0 +1,2 @@
+Hubo problemas porque para git una carpeta vacia no implica un cambio
+lo que si se puede hacer es un commit vacio
